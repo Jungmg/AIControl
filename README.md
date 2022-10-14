@@ -47,6 +47,11 @@
 | 기계정비 산업기사 | 2023 | 준비중 |
 | 산업안전 산업기사 | 2023 | 준비중 |
 
+ 
+ 
+ | AI Control 수업 |
+ 
+
 | Data Type Conversion |
 ---
 | sr.No. |  Function&Description |
