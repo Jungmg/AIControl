@@ -73,3 +73,10 @@
 | hex(x) | 정수를 16진수 문자열로 변환합니다. |
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
+
+https://user-images.githubusercontent.com/112456870/206638959-d1caeb3a-7f37-453a-b1c3-4a8788ea7fff.mp4
+
+[Uploading 8조 기말 발표 ppt.pptx…]()
+
+
+
