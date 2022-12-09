@@ -74,9 +74,9 @@
 | oct(x) | 정수를 8진수 문자열로 변환합니다. |
 
 
+ #### 4. AI 제어실습 수업 프로젝트 실행영상
 https://user-images.githubusercontent.com/112456870/206638959-d1caeb3a-7f37-453a-b1c3-4a8788ea7fff.mp4
 
-[Uploading 8조 기말 발표 ppt.pptx…]()
-
-
+ #### 5. 최종 발표자료
+[8조 기말 발표 ppt.pptx](https://github.com/Jungmg/AIControl/files/10192350/8.ppt.pptx)
 
